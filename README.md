@@ -17,7 +17,7 @@ The objective was to evaluate revenue trends, profitability, country contributio
 - XLOOKUP
 - SUMIFS
 - RANK & KPI Calculations
-- FORECAST.ETS (Time-Series Forecasting with Confidence Intervals)
+- Time-Series Forecasting
 - % of Grand Total Analysis
 - Dashboard Design
 
