@@ -2,14 +2,15 @@
 Excel-based interactive sales performance dashboard with forecasting, KPI analysis, Power Query transformation, and dynamic reporting using PivotTables and XLOOKUP
 
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes sales performance between 2019 and 2022 using Microsoft Excel. 
 The objective was to evaluate revenue trends, profitability, country contribution, and sales manager performance, while projecting future revenue using time-series forecasting.
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
+<img width="1083" height="718" alt="image" src="https://github.com/user-attachments/assets/852c5427-606c-48c7-9dff-be1965a2e76b" />
 
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - Power Query (Data Cleaning & Transformation)
 - Pivot Tables & Pivot Charts
 - Slicers (Dynamic Filtering)
@@ -20,7 +21,7 @@ The objective was to evaluate revenue trends, profitability, country contributio
 - % of Grand Total Analysis
 - Dashboard Design
 
-## 📈 Key KPIs
+##  Key KPIs
 - Total Revenue
 - Total Profit
 - Profit Margin
@@ -30,18 +31,19 @@ The objective was to evaluate revenue trends, profitability, country contributio
 - Revenue Forecast (Quarterly)
 
 
-## 🔎 Key Insights
+##  Key Insights
 - Revenue peaked in 2021 and declined 1.82% in 2022.
 - New Zealand contributes the highest revenue share (21.5%).
 - Profit margin remained stable at ~27%.
 - Forecast suggests moderate recovery in 2023.
 
-- ## 🔍 Dynamic Lookup & Ranking Example
-![Lookup](lookup_screenshot.png)
+- ##  Dynamic Lookup & Ranking Example
+<img width="757" height="470" alt="image" src="https://github.com/user-attachments/assets/8f8f84ea-cf83-474f-9da8-40379205088b" />
+
 
 The project includes dynamic XLOOKUP functionality allowing user-driven selection of Sales Manager, returning Total Revenue, Total Profit, Profit Margin, and ranking among peers.
 
-## 📂 File Structure
+##  File Structure
 - Project_Overview – Case study explanation
 - Dashboard – Interactive performance dashboard
 - Lookup_Analysis – XLOOKUP & ranking logic
@@ -52,5 +54,5 @@ The project includes dynamic XLOOKUP functionality allowing user-driven selectio
 - RAW_Sales_Data – Original dataset
 
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 This project demonstrates advanced Excel capabilities, including data transformation, dynamic dashboard development, time-series forecasting, KPI modeling, and business performance analysis.
